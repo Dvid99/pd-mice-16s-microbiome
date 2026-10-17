@@ -1,0 +1,9 @@
+data/*
+!data/README.md
+results/*
+!results/figures/
+*.qza
+*.qzv
+__pycache__/
+.Rhistory
+.DS_Store

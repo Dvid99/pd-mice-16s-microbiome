@@ -1,0 +1,12 @@
+name: pd-mice-r
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - bioconductor-phyloseq
+  - r-vegan
+  - r-ape
+  - r-ggplot2
+  - r-lme4
+  - r-lmertest
